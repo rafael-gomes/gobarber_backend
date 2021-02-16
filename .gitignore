@@ -6,3 +6,5 @@ tmp/*
 coverage/
 ormconfig.json
 dist
+tmp/uploads
+tmp/*.png
